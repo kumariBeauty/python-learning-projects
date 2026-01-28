@@ -13,7 +13,7 @@ def divide(a, b):
     return a / b
 
 def main():
-    print("=== Calculator App ===")
+    print("Calculator App")
 
     a = float(input("Enter first number: "))
     b = float(input("Enter second number: "))

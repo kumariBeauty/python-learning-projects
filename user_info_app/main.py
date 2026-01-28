@@ -1,5 +1,5 @@
 def main():
-    print("=== User Info Application ===")
+    print("User Info Application")
 
     name = input("Enter your name: ")
     age = int(input("Enter your age: "))
